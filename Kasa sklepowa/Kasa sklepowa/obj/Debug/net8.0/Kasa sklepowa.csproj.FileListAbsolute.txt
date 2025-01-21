@@ -1,0 +1,4 @@
+C:\Users\mateo\source\repos\Kasa sklepowa\Kasa sklepowa\obj\Debug\net8.0\Kasa sklepowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\Kasa sklepowa\Kasa sklepowa\obj\Debug\net8.0\Kasa sklepowa.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\Kasa sklepowa\Kasa sklepowa\obj\Debug\net8.0\Kasa sklepowa.AssemblyInfo.cs
+C:\Users\mateo\source\repos\Kasa sklepowa\Kasa sklepowa\obj\Debug\net8.0\Kasa sklepowa.csproj.CoreCompileInputs.cache
